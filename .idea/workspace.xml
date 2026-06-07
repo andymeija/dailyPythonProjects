@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf39b5b0-e42a-4461-8801-797ce556d70a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day2Comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="bf39b5b0-e42a-4461-8801-797ce556d70a" name="Changes" comment="Day 2: Variabls, Builtin Functions">
+      <change afterPath="$PROJECT_DIR$/day3Comments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +72,18 @@
       <option name="presentableId" value="Default" />
       <updated>1780707302130</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 2: Variabls, Builtin Functions">
+      <created>1780761256487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780761256487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 2: Variabls, Builtin Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2: Variabls, Builtin Functions" />
   </component>
 </project>
